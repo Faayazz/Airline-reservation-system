@@ -30,9 +30,7 @@ This is a simple console-based airline reservation system implemented in Python.
 
 1.  **Clone Repository:** Clone the project repository to your local machine.
 2.  **Run Project:** Navigate to the project directory and execute the python script using the command:
-    ```bash
-    python your_script_name.py
-    ```
+   
  
 
 ## Key Learnings
